@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "vbucks_mod:blocks/vbuck_shard_radiant_block"
+	}
+}

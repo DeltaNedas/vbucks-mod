@@ -1,0 +1,18 @@
+{
+	"type" : "minecraft:crafting_shaped",
+	"pattern" : [
+		" Q ",
+		"QSQ",
+		" Q "
+	],
+	"key" : {
+		"Q" : {
+			"item" : "minecraft:quartz"
+		},
+		"S" : {
+			"item" : "vbucks_mod:vbuck_shard"
+		}
+	},"result" : {
+		"item" : "vbucks_mod:vbuck_shard_white"
+	}
+}

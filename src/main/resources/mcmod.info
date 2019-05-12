@@ -1,0 +1,12 @@
+[
+{
+  "modid": "vbucks_mod",
+  "name": "V-Bucks Mod",
+  "description": "A mod that just adds V-Bucks. Not affiliated in any way with Epic Games, the Fortnite brand or V-Bucks from Fortnite.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": ["DeltaNedas"],
+  "url": "https://github.com/DeltaNedas/vbucks-mod/",
+  "dependences": ["actuallyadditions", "enderio", "mekanism", "galacticraftcore", "rftools", "wizardry", "psi"]
+}
+]

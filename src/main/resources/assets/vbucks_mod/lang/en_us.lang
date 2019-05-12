@@ -1,0 +1,19 @@
+tile.vbuck.name=V-Buck
+tile.vbuck_glowing.name=Glowing V-Buck
+tile.vbuck_shard_block.name=V-Buck Shard Block
+tile.vbuck_shard_white_block.name=White V-Buck Shard Block
+tile.vbuck_shard_radiant_block.name=Radiant V-Buck Shard Block
+tile.vinderium_ore.name=Vinderium Ore
+tile.vinderium_block.name=Block of Vinderium
+
+item.vbuck_core.name=V-Buck Core
+item.vbuck_shard.name=V-Buck Shard
+item.vbuck_shard_white.name=White V-Buck Shard
+item.vbuck_shard_radiant.name=Radiant V-Buck Shard
+item.vinderium_chunk.name=Vinderium Chunk
+item.mechanical_core.name=Mechanical Core
+item.energetic_core.name=Energetic Core
+item.materialistic_core.name=Materialistic Core
+item.arcane_core.name=Arcane Core
+
+itemGroup.tabVBucksMod=V-Bucks Mod

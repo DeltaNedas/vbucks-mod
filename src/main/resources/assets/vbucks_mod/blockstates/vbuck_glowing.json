@@ -1,0 +1,16 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "vbucks_mod:vbuck_none"
+	},
+	"variants": {
+		"facing": {
+			"up": { "model": "vbucks_mod:vbuck" },
+			"down": { "model": "vbucks_mod:vbuck", "x": 180 },
+			"north": { "model": "vbucks_mod:vbuck", "x": 270, "y": 180 },
+			"east": { "model": "vbucks_mod:vbuck", "x": 270, "y": 270} ,
+			"south": { "model": "vbucks_mod:vbuck", "x": 270 },
+			"west": { "model": "vbucks_mod:vbuck", "x": 270, "y": 90 }
+		}
+	}
+}
