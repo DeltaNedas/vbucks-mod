@@ -31,8 +31,8 @@ public class InitRecipes {
 				"DVE",
 				"FGH",
 				'V', new ItemStack(InitBlocks.vinderiumBlock, 1, 0),
-				'A', new ItemStack(InitItems.getModItem("galacticraftcore:machine_tiered"), 1, 4),
-				'B', new ItemStack(InitItems.getModItem("galacticraftcore:machine_tiered"), 1, 12),
+				'A', new ItemStack(InitItems.getModItem("galacticraftcore:machine_tiered"), 1, 0),
+				'B', new ItemStack(InitItems.getModItem("galacticraftcore:machine_tiered"), 1, 8),
 				'C', new ItemStack(InitItems.getModItem("enderio:block_cap_bank"), 1, 2),
 				'D', new ItemStack(InitItems.getModItem("rftools:powercell_advanced"), 1, 0),
 				'E', new ItemStack(InitItems.getModItem("enderio:block_cap_bank"), 1, 3),
@@ -62,7 +62,7 @@ public class InitRecipes {
 			);
 			
 			Recipes.addEmpowering(InitItems.vbuckShard,
-				InitItems.vinderiumShard,
+				InitItems.vinderiumChunk,
 				InitItems.mechanicalCore,
 				InitItems.energeticCore,
 				InitItems.materialisticCore,

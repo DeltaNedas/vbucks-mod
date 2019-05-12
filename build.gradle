@@ -1,7 +1,7 @@
 def ForgeMappings = "20171003"
 def ForgeVersion = "14.23.5.2807"
 def MinecraftVersion = "1.12.2"
-def ModVersion = "1.1.1"
+def ModVersion = "1.1.2"
 
 buildscript {
 	repositories {

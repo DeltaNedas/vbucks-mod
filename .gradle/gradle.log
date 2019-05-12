@@ -1,0 +1,55 @@
+This mapping 'snapshot_20171003' was designed for MC 1.12! Use at your own peril.This mapping 'snapshot_20171003' was designed for MC 1.12! Use at your own peril.
+
+#################################################
+         ForgeGradle 2.3-SNAPSHOT-7764e3e        
+  https://github.com/MinecraftForge/ForgeGradle  
+#################################################
+                 Powered by MCP                  
+             http://modcoderpack.com             
+     by: Searge, ProfMobius, R4wk, ZeuX          
+     Fesh0r, IngisKahn, bspkrs, LexManos         
+#################################################
+:deobfCompileDummyTask
+:getVersionJson
+:extractUserdev UP-TO-DATE
+:downloadClient SKIPPED
+:downloadServer SKIPPED
+:splitServerJar SKIPPED
+:mergeJars SKIPPED
+:applyBinaryPatches SKIPPED
+:deobfProvidedDummyTask
+:extractDependencyATs SKIPPED
+:extractMcpData SKIPPED
+:extractMcpMappings SKIPPED
+:genSrgs SKIPPED
+:deobfMcMCP SKIPPED
+:sourceApiJava UP-TO-DATE
+:compileApiJava UP-TO-DATE
+:processApiResources UP-TO-DATE
+:apiClasses UP-TO-DATE
+:sourceMainJava
+:compileJavaNote: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+
+:processResources
+:classes
+:jar
+:sourceTestJava
+:compileTestJava UP-TO-DATE
+:processTestResources UP-TO-DATE
+:testClasses UP-TO-DATE
+:test UP-TO-DATE
+:reobfJar
+:extractAnnotationsJar
+:extractRangemapReplacedMain
+/home/user/Java/vbucks-mod/build/sources/main/java
+:retromapReplacedMain
+remapping source...
+:sourceJar
+:assemble
+:check UP-TO-DATE
+:build
+
+BUILD SUCCESSFUL
+
+Total time: 36.1 secs
